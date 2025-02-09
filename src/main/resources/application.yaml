@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: OAuthProject
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            clientId: Ov23li2dU2bGMQ2U9aMs
+            clientSecret: 4cb95ee911f71e5f5d4c56c47935a77b2a7873cf
+          google:
+            clientId: 415530128738-hadlkhgn3p40biqlm8st8as16rvdmc87.apps.googleusercontent.com
+            clientSecret: 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
